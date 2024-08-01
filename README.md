@@ -1,16 +1,20 @@
-## Hi there 👋
+# 💻 Software Engineer | NYC 🌆
 
-<!--
-**dannydevww/dannydevww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Image](https://media.licdn.com/dms/image/D5603AQENZdBrA0yBkQ/profile-displayphoto-shrink_200_200/0/1684350295847?e=2147483647&v=beta&t=Bs2wxIVhLwAdr-nAc_eijo7bZh7g02Kh-GPxbHsYne0)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hello! I'm Adegokoe Daniel 🧑‍💻
+
+Passionate about crafting intuitive and delightful mobile experiences. I specialize in Android, iOS & Cross platform development, leveraging modern technologies and best practices to build scalable and maintainable applications.
+
+---
+
+## 🚀 About Me
+
+- 🎓 **Experience**: Over 4 years of experience in Software Engineering
+- 🛠 **Tech Stack**: Kotlin, Jetpack Compose, Swift, SwiftUI, Dart, Flutter, and more
+- 🌟 **Specialties**: UI/UX Design, Architecture, Performance Optimization
+- 🌍 **Location**: New York City, NY
+
+---
