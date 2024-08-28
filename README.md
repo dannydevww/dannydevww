@@ -4,7 +4,7 @@
 
 ---
 
-### 👋 Hello! I'm Adegokoe Daniel 🧑‍💻
+### 👋 Hello! I'm Adegoke Daniel 🧑‍💻
 
 Passionate about crafting intuitive and delightful mobile experiences. I specialize in Android, iOS & Cross platform development, leveraging modern technologies and best practices to build scalable and maintainable applications.
 
